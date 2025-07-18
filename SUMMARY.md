@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Babb Works](README.md)
-* [Welcome](welcome.md)
+* [Game Plan](welcome.md)
 * [.github](.github/README.md)
   * [ISSUE\_TEMPLATE](.github/issue_template/README.md)
     * [bug\_report](.github/issue_template/bug_report.md)
