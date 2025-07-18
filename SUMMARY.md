@@ -35,3 +35,7 @@
 * [BASICS](protocols/basics.md)
 * [SIMBA](protocols/simba.md)
 * [Workpads](protocols/workpads.md)
+
+## PRODUCTS
+
+* [Workpads](products/workpads.md)
