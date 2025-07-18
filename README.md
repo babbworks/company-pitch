@@ -1,5 +1,5 @@
 ---
-description: Software and Hardware for the Working World
+description: Tools for the frontier.
 cover: .gitbook/assets/28111-97495.jpeg
 coverY: 0
 layout:
