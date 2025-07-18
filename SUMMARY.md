@@ -1,21 +1,37 @@
 # Table of contents
 
-* [Babb.](README.md)
-* [Purpose](purpose.md)
+* [Babb Works](README.md)
+* [Welcome](welcome.md)
+* [.github](.github/README.md)
+  * [ISSUE\_TEMPLATE](.github/issue_template/README.md)
+    * [bug\_report](.github/issue_template/bug_report.md)
+    * [custom](.github/issue_template/custom.md)
+    * [feature\_request](.github/issue_template/feature_request.md)
 
-## PITCH
+## Company
 
-* [Problem](pitch/problem.md)
-* [Market](pitch/market.md)
-* [Discovery](pitch/discovery.md)
-* [Solution](pitch/solution.md)
-* [Product](pitch/product.md)
-* [Advantage](pitch/advantage.md)
-* [Vision](pitch/vision.md)
-* [Team](pitch/team.md)
-* [Roadmap](pitch/roadmap.md)
-* [Finances](pitch/finances.md)
+* [Purpose](company/purpose/README.md)
+  * [All Ages](company/purpose/all-ages.md)
+  * [Kids](company/purpose/kids.md)
+* [Mission](company/mission/README.md)
+  * [Around the World](company/mission/around-the-world.md)
+  * [Across the Cosmos](company/mission/across-the-cosmos.md)
+* [Vision](company/vision/README.md)
+  * [Operational Autonomy](company/vision/operational-autonomy.md)
+  * [Educational Opportunities](company/vision/educational-opportunities.md)
+  * [Tools that Talk](company/vision/tools-that-talk.md)
+  * [Durable Devices](company/vision/durable-devices.md)
+* [Values](company/values/README.md)
+  * [Opportunity](company/values/opportunity.md)
+  * [Growth](company/values/growth.md)
+  * [Durability](company/values/durability.md)
+  * [Trade](company/values/trade.md)
+  * [Edges](company/values/edges.md)
+* [CBAs](company/cbas.md)
+* [CP](company/cp.md)
 
-## REFERENCES
+## PROTOCOLS
 
-* [Page 1](references/page-1.md)
+* [BASICS](protocols/basics.md)
+* [SIMBA](protocols/simba.md)
+* [Workpads](protocols/workpads.md)
