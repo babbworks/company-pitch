@@ -27,4 +27,4 @@ Our products help individuals and small teams stay productive and secure.
 
 Our goal is to spread throughout the region and far beyond, giving voice to the needs and aspirations of blue collar society. The tools and technologies that succeed in these communities demand extreme simplicity and durability. [Workpads](products/workpads-for-mobile.md) is our first product.
 
-We are committed to proving that these types of solutions can have massive impact across whole economies, bringing wide-spread disruption to business administration.
+We are committed to proving that these types of solutions can have massive impact across whole economies, bringing wide-spread disruption to business administration and management.
