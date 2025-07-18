@@ -13,9 +13,9 @@ The "team subscription" model has never worked for the majority of independent t
 
 By leverging the working world's immediate demands for mobile-first software and hardware, we can amplify economic activity while redefining what it means to administer and manage enterprises. Our Blue Ocean is based on the methods and mentalities of blue collar communities at the lowest levels, where jobs, staff and responsibilities constantly shift.&#x20;
 
-As software margins deteriorate, this market's enthusiasm for personal and cheap hardware opens up a long-term demand in the Americas and globallythat our brands will be unquely well-positioned to serve.&#x20;
+As software margins deteriorate, this market's enthusiasm for personal and cheap hardware opens up a long-term demand in the Americas and globally that our brands will be unquely well-positioned to serve.&#x20;
 
-We will seize these opportunities be operating like a media company and using our reach to tell respected and trusted stories about the people and places on the front lines of survival and the reindustrialiozation period we are now entering.
+We will seize these opportunities be operating like a media company and using our reach to tell respected and trusted stories about the people and places on the front lines of survival and the reindustrialization period we are now entering.
 
 
 
