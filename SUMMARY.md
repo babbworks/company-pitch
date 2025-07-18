@@ -1,32 +1,21 @@
 # Table of contents
 
-* [Babb Works](README.md)
-* [Game Plan](welcome.md)
+* [Why Babb?](README.md)
+* [Purpose](purpose.md)
 
-## Company
+## PITCH
 
-* [Culture](company/culture.md)
-* [Purpose](company/purpose.md)
-* [Telling Stories](company/telling-stories.md)
-* [Market Vision](company/vision/README.md)
-  * [Operational Autonomy](company/vision/operational-autonomy.md)
-  * [Educational Opportunities](company/vision/educational-opportunities.md)
-  * [Tools that Talk](company/vision/tools-that-talk.md)
-  * [Durable Devices](company/vision/durable-devices.md)
-* [Company Values](company/values/README.md)
-  * [Opportunity](company/values/opportunity.md)
-  * [Growth](company/values/growth.md)
-  * [Durability](company/values/durability.md)
-  * [Trade](company/values/trade.md)
-  * [Edges](company/values/edges.md)
-* [Company Mission](company/mission/README.md)
-  * [Around the World](company/mission/around-the-world.md)
-  * [Across the Cosmos](company/mission/across-the-cosmos.md)
-* [Rust Belt & Beyond](company/rust-belt-and-beyond.md)
+* [Problem](pitch/problem.md)
+* [Market](pitch/market.md)
+* [Discovery](pitch/discovery.md)
+* [Solution](pitch/solution.md)
+* [Product](pitch/product.md)
+* [Advantage](pitch/advantage.md)
+* [Vision](pitch/vision.md)
+* [Team](pitch/team.md)
+* [Roadmap](pitch/roadmap.md)
+* [Finances](pitch/finances.md)
 
-## PRODUCTS
+## REFERENCES
 
-* [Common Applications](products/cbas.md)
-* [Workwarrior Terminal](products/workwarrior-terminal.md)
-* [Workpads for Mobile](products/workpads-for-mobile.md)
-* [Radical Roadmap](products/radical-roadmap.md)
+* [Page 1](references/page-1.md)
